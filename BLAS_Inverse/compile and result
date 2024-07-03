@@ -1,0 +1,5 @@
+Matrix Inversion (100x100) took 0.00423629 seconds.
+Matrix Inversion (1000x1000) took 0.039101 seconds.
+
+g++ -std=c++11 -o blas_inv_test /Users/zhazhahui/mathpackage_test/BLAS_Inverse/blas_inverse.cpp -I/opt/homebrew/Cellar/openblas/0.3.27/include -L/opt/homebrew/Cellar/openblas/0.3.27/lib -lopenblas -llapack -lblas
+./blas_inv_test
