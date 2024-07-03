@@ -1,0 +1,5 @@
+Matrix inverse (100x100) took 0.00764783 seconds.
+Matrix inverse (1000x1000) took 1.61584 seconds.
+
+
+g++ -o inverse /Users/zhazhahui/mathpackage_test/alglib_inverse/inverse.cpp -I/Users/zhazhahui/mathpackage_test/alglib-cpp/ -L/Users/zhazhahui/mathpackage_test/alglib-cpp -lalglib
