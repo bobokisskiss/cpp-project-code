@@ -1,0 +1,27 @@
+Testing Eigen...
+Eigen, n=5, average time per sum: 1.9705e-07 seconds
+Eigen, n=10, average time per sum: 4.3259e-07 seconds
+Eigen, n=50, average time per sum: 7.49835e-06 seconds
+Eigen, n=100, average time per sum: 2.974e-05 seconds
+Eigen, n=500, average time per sum: 0.000602304 seconds
+Eigen, n=1000, average time per sum: 0.00238741 seconds
+Eigen, n=5000, average time per sum: 0.0601063 seconds
+Eigen, n=10000, average time per sum: 0.240624 seconds
+Testing Armadillo...
+Armadillo, n=5, average time per sum: 3.499e-08 seconds
+Armadillo, n=10, average time per sum: 2.668e-08 seconds
+Armadillo, n=50, average time per sum: 2.876e-08 seconds
+Armadillo, n=100, average time per sum: 2.75e-08 seconds
+Armadillo, n=500, average time per sum: 2.503e-08 seconds
+Armadillo, n=1000, average time per sum: 2.461e-08 seconds
+Armadillo, n=5000, average time per sum: 2.707e-08 seconds
+Armadillo, n=10000, average time per sum: 2.794e-08 seconds
+Testing XTensor...
+XTensor, n=5, average time per sum: 1.05417e-06 seconds
+XTensor, n=10, average time per sum: 1.54327e-06 seconds
+XTensor, n=50, average time per sum: 2.14868e-05 seconds
+XTensor, n=100, average time per sum: 8.23571e-05 seconds
+XTensor, n=500, average time per sum: 0.00202269 seconds
+XTensor, n=1000, average time per sum: 0.00807148 seconds
+XTensor, n=5000, average time per sum: 0.199233 seconds
+XTensor, n=10000, average time per sum: 0.809234 seconds
