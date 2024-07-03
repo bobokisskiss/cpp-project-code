@@ -1,0 +1,5 @@
+g++ -o multiplication /Users/zhazhahui/mathpackage_test/alglib_multiplication/multiplication.cpp -I/Users/zhazhahui/mathpackage_test/alglib-cpp/src -L/Users/zhazhahui/mathpackage_test/alglib-cpp -lalglib
+./multiplication
+
+Matrix multiplication (100x100) took 0.00327042 seconds.
+Matrix multiplication (1000x1000) took 1.44466 seconds.
