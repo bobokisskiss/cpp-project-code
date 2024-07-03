@@ -1,0 +1,5 @@
+Matrix Multiplication (100x100) took 0.000841375 seconds.
+Matrix Multiplication (1000x1000) took 0.0157657 seconds.
+
+g++ -std=c++11 -o blas_mult_test /Users/zhazhahui/mathpackage_test/BLAS_Multiplication/multiplication.cpp -I/opt/homebrew/Cellar/openblas/0.3.27/include -L/opt/homebrew/Cellar/openblas/0.3.27/lib -lopenblas
+./blas_mult_test
