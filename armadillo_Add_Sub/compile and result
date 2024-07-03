@@ -1,0 +1,7 @@
+Matrix Addition (100x100) took 6.1291e-05 seconds.
+Matrix Subtraction (100x100) took 5.925e-05 seconds.
+Matrix Addition (1000x1000) took 0.00454842 seconds.
+Matrix Subtraction (1000x1000) took 0.00443237 seconds.
+
+g++ -std=c++11 -o armadillo_add_sub_test /Users/zhazhahui/mathpackage_test/armadillo_Add_Sub/Add_Sub.cpp -I/opt/homebrew/Cellar/armadillo/12.8.4/include -L/opt/homebrew/Cellar/armadillo/12.8.4/lib -larmadillo
+./armadillo_add_sub_test
