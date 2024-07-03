@@ -1,0 +1,5 @@
+g++ -std=c++11 -o armadillo_inv_test /Users/zhazhahui/mathpackage_test/armadillo_inverse/inverse.cpp -I/opt/homebrew/Cellar/armadillo/12.8.4/include -L/opt/homebrew/Cellar/armadillo/12.8.4/lib -larmadillo
+./armadillo_inv_test
+
+Matrix Inversion (100x100) took 0.00313063 seconds.
+Matrix Inversion (1000x1000) took 0.0329473 seconds.
