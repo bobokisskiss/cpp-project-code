@@ -1,0 +1,25 @@
+Testing Eigen...
+Eigen, n=5, average time per determinant: 1.21204e-05 seconds
+Eigen, n=10, average time per determinant: 3.68629e-05 seconds
+Eigen, n=50, average time per determinant: 0.000478062 seconds
+Eigen, n=100, average time per determinant: 0.00223548 seconds
+Eigen, n=500, average time per determinant: 0.15115 seconds
+Eigen, n=1000, average time per determinant: 1.0767 seconds
+Testing Armadillo...
+Armadillo, n=5, average time per determinant: 4.917e-08 seconds
+Armadillo, n=10, average time per determinant: 3.832e-08 seconds
+Armadillo, n=50, average time per determinant: 4.209e-08 seconds
+Armadillo, n=100, average time per determinant: 3.126e-08 seconds
+Armadillo, n=500, average time per determinant: 3.626e-08 seconds
+Armadillo, n=1000, average time per determinant: 4.122e-08 seconds
+Armadillo, n=5000, average time per determinant: 4.212e-08 seconds
+Armadillo, n=10000, average time per determinant: 3.747e-08 seconds
+Testing XTensor...
+XTensor, n=5, average time per determinant: 1.00437e-05 seconds
+XTensor, n=10, average time per determinant: 3.99417e-06 seconds
+XTensor, n=50, average time per determinant: 7.59359e-05 seconds
+XTensor, n=100, average time per determinant: 0.000281073 seconds
+XTensor, n=500, average time per determinant: 0.00834119 seconds
+XTensor, n=1000, average time per determinant: 0.0331177 seconds
+XTensor, n=5000, average time per determinant: 1.05955 seconds
+XTensor, n=10000, average time per determinant: 17.2826 seconds

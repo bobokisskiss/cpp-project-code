@@ -1,0 +1,23 @@
+Testing Eigen...
+Eigen, n=5, average time per inversion: 1.72767e-05 seconds
+Eigen, n=10, average time per inversion: 5.31229e-05 seconds
+Eigen, n=50, average time per inversion: 0.00111368 seconds
+Eigen, n=100, average time per inversion: 0.00639669 seconds
+Eigen, n=500, average time per inversion: 0.568171 seconds
+Testing Armadillo...
+Armadillo, n=5, average time per inversion: 3.291e-08 seconds
+Armadillo, n=10, average time per inversion: 2.042e-08 seconds
+Armadillo, n=50, average time per inversion: 2e-08 seconds
+Armadillo, n=100, average time per inversion: 1.959e-08 seconds
+Armadillo, n=500, average time per inversion: 2e-08 seconds
+Armadillo, n=1000, average time per inversion: 2.875e-08 seconds
+Armadillo, n=5000, average time per inversion: 2.708e-08 seconds
+Armadillo, n=10000, average time per inversion: 2.667e-08 seconds
+
+XTensor, n=5, average time per inversion: 7.25828e-06 seconds
+XTensor, n=10, average time per inversion: 1.51767e-05 seconds
+XTensor, n=50, average time per inversion: 0.000196032 seconds
+XTensor, n=100, average time per inversion: 0.000833622 seconds
+XTensor, n=500, average time per inversion: 0.0142416 seconds
+XTensor, n=1000, average time per inversion: 0.0547346 seconds
+XTensor, n=5000, average time per inversion: 136.347 seconds
