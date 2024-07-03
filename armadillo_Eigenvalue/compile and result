@@ -1,0 +1,8 @@
+warning: eig_sym(): given matrix is not symmetric
+Matrix Eigenvalues (100x100) computation took 0.00314196 seconds.
+
+warning: eig_sym(): given matrix is not symmetric
+Matrix Eigenvalues (1000x1000) computation took 0.0733768 seconds.
+
+g++ -std=c++11 -o armadillo_eig_test /Users/zhazhahui/mathpackage_test/armadillo_Eigenvalue/Eigenvalue.cpp -I/opt/homebrew/Cellar/armadillo/12.8.4/include -L/opt/homebrew/Cellar/armadillo/12.8.4/lib -larmadillo
+./armadillo_eig_test
