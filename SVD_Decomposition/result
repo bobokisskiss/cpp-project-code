@@ -1,0 +1,21 @@
+Armadillo, n=5, SVD decomposition time: 0.00289904 seconds
+Armadillo, n=10, SVD decomposition time: 1.9417e-05 seconds
+Armadillo, n=50, SVD decomposition time: 0.00415671 seconds
+Armadillo, n=100, SVD decomposition time: 0.00671242 seconds
+Armadillo, n=500, SVD decomposition time: 0.147799 seconds
+Armadillo, n=1000, SVD decomposition time: 0.475602 seconds
+Armadillo, n=5000, SVD decomposition time: 34.2344 seconds
+
+Eigen, n=5, SVD decomposition time: 6.125e-06 seconds
+Eigen, n=10, SVD decomposition time: 3.9125e-05 seconds
+Eigen, n=50, SVD decomposition time: 0.00235608 seconds
+Eigen, n=100, SVD decomposition time: 0.0117966 seconds
+Eigen, n=500, SVD decomposition time: 0.782481 second
+Eigen, n=1000, SVD decomposition time: 10.5182 seconds
+
+xtensor, n=5, SVD decomposition time: 0.000521833 seconds
+xtensor, n=10, SVD decomposition time: 3.4041e-05 seconds
+xtensor, n=50, SVD decomposition time: 0.00102925 seconds
+xtensor, n=100, SVD decomposition time: 0.00528804 seconds
+xtensor, n=500, SVD decomposition time: 0.27613 seconds
+xtensor, n=1000, SVD decomposition time: 2.08981 seconds

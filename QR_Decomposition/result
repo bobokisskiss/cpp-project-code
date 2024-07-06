@@ -1,0 +1,26 @@
+Armadillo, n=5, QR decomposition time: 0.00166742 seconds
+Armadillo, n=10, QR decomposition time: 4.625e-06 seconds
+Armadillo, n=50, QR decomposition time: 6.6584e-05 seconds
+Armadillo, n=100, QR decomposition time: 0.00110817 seconds
+Armadillo, n=500, QR decomposition time: 0.0933361 seconds
+Armadillo, n=1000, QR decomposition time: 0.215629 seconds
+Armadillo, n=5000, QR decomposition time: 6.0496 seconds
+
+Eigen
+
+Eigen, n=5, QR decomposition time: 5.3917e-05 seconds
+Eigen, n=10, QR decomposition time: 1.125e-05 seconds
+Eigen, n=50, QR decomposition time: 0.000247166 seconds
+Eigen, n=100, QR decomposition time: 0.000822708 seconds
+Eigen, n=500, QR decomposition time: 0.022556 seconds
+Eigen, n=1000, QR decomposition time: 0.0901728 seconds
+Eigen, n=5000, QR decomposition time: 11.0464 seconds
+
+xtensor, n=5, QR decomposition time: 0.00879167 seconds
+xtensor, n=10, QR decomposition time: 1.5917e-05 seconds
+xtensor, n=50, QR decomposition time: 0.00324642 seconds
+xtensor, n=100, QR decomposition time: 0.000599625 seconds
+xtensor, n=500, QR decomposition time: 0.0127464 seconds
+xtensor, n=1000, QR decomposition time: 0.0303981 seconds
+xtensor, n=5000, QR decomposition time: 3.68159 seconds
+xtensor, n=10000, QR decomposition time: 26.6633 seconds

@@ -1,0 +1,43 @@
+Loaded matrix A size: 5 x 5
+Loaded Q matrix size: 5 x 5
+Loaded R matrix size: 5 x 5
+Armadillo, n=5, Linear regression completed in 0.000600792 seconds.
+Loaded matrix A size: 10 x 10
+Loaded Q matrix size: 10 x 10
+Loaded R matrix size: 10 x 10
+Armadillo, n=10, Linear regression completed in 6.583e-06 seconds.
+Loaded matrix A size: 50 x 50
+Loaded Q matrix size: 50 x 50
+Loaded R matrix size: 50 x 50
+Armadillo, n=50, Linear regression completed in 3.05e-05 seconds.
+Loaded matrix A size: 100 x 100
+Loaded Q matrix size: 100 x 100
+Loaded R matrix size: 100 x 100
+Armadillo, n=100, Linear regression completed in 8.875e-05 seconds.
+Loaded matrix A size: 500 x 500
+Loaded Q matrix size: 500 x 500
+Loaded R matrix size: 500 x 500
+Armadillo, n=500, Linear regression completed in 0.000716 seconds.
+Loaded matrix A size: 1000 x 1000
+Loaded Q matrix size: 1000 x 1000
+Loaded R matrix size: 1000 x 1000
+Armadillo, n=1000, Linear regression completed in 0.00310075 seconds.
+Loaded matrix A size: 5000 x 5000
+Loaded Q matrix size: 5000 x 5000
+Loaded R matrix size: 5000 x 5000
+Armadillo, n=5000, Linear regression completed in 0.134339 seconds.
+
+Eigen, n=5, QR decomposition completed in 4.7334e-05 seconds.
+Eigen, n=10, QR decomposition completed in 9.333e-06 seconds.
+Eigen, n=50, QR decomposition completed in 0.00027775 seconds.
+Eigen, n=100, QR decomposition completed in 0.000873916 seconds.
+Eigen, n=500, QR decomposition completed in 0.0300815 seconds.
+Eigen, n=1000, QR decomposition completed in 0.0912445 seconds.
+Eigen, n=5000, QR decomposition completed in 11.2442 seconds.
+
+xtensor, n=5, QR decomposition completed in 1.66e-07 seconds.
+xtensor, n=10, QR decomposition completed in 8.3e-08 seconds.
+xtensor, n=50, QR decomposition completed in 4.2e-08 seconds.
+xtensor, n=100, QR decomposition completed in 4.2e-08 seconds.
+xtensor, n=500, QR decomposition completed in 0 seconds.
+xtensor, n=1000, QR decomposition completed in 4.1e-08 seconds.

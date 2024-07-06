@@ -1,0 +1,17 @@
+Testing Eigen LU decomposition...
+Eigen, n=5, average time per LU decomposition: 2.7876e-07 seconds
+Eigen, n=10, average time per LU decomposition: 7.9579e-07 seconds
+Eigen, n=50, average time per LU decomposition: 3.68058e-05 seconds
+Eigen, n=100, average time per LU decomposition: 0.000236278 seconds
+Eigen, n=500, average time per LU decomposition: 0.0300256 seconds
+Eigen, n=1000, average time per LU decomposition: 0.23432 seconds
+Testing Armadillo LU decomposition...
+Armadillo, n=5, average time per LU decomposition: 2.79462e-06 seconds
+Armadillo, n=10, average time per LU decomposition: 1.03297e-06 seconds
+Armadillo, n=50, average time per LU decomposition: 2.13892e-05 seconds
+Armadillo, n=100, average time per LU decomposition: 6.58855e-05 seconds
+Armadillo, n=500, average time per LU decomposition: 0.00287758 seconds
+Armadillo, n=1000, average time per LU decomposition: 0.012608 seconds
+Armadillo, n=5000, average time per LU decomposition: 0.729018 seconds
+xtensor has no LU decomposition method
+

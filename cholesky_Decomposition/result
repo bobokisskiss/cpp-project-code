@@ -1,0 +1,22 @@
+Armadillo, n=5, Cholesky decomposition time: 0.00511946 seconds
+Armadillo, n=10, Cholesky decomposition time: 1.1667e-05 seconds
+Armadillo, n=50, Cholesky decomposition time: 0.00188929 seconds
+Armadillo, n=100, Cholesky decomposition time: 6.0083e-05 seconds
+Armadillo, n=500, Cholesky decomposition time: 0.00149125 seconds
+Armadillo, n=1000, Cholesky decomposition time: 0.00404808 seconds
+Armadillo, n=5000, Cholesky decomposition time: 0.327108 seconds
+Armadillo, n=10000, Cholesky decomposition time: 2.82897 seconds
+
+Eigen, n=5, Cholesky decomposition time: 0.000131167 seconds
+Eigen, n=10, Cholesky decomposition time: 4.6292e-05 seconds
+Eigen, n=50, Cholesky decomposition time: 0.000814292 seconds
+Eigen, n=100, Cholesky decomposition time: 0.00295004 seconds
+Eigen, n=500, Cholesky decomposition time: 0.0778858 seconds
+Eigen, n=1000, Cholesky decomposition time: 0.531949 seconds
+
+xtensor, n=5, Cholesky decomposition time: 0.000408542 seconds
+xtensor, n=10, Cholesky decomposition time: 1.4416e-05 seconds
+xtensor, n=50, Cholesky decomposition time: 0.000937166 seconds
+xtensor, n=100, Cholesky decomposition time: 0.00152646 seconds
+xtensor, n=500, Cholesky decomposition time: 0.0201969 seconds
+xtensor, n=1000, Cholesky decomposition time: 0.07256 seconds
